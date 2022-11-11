@@ -2,6 +2,8 @@
 
 This project to work on pipelines models. Specifically starting with AWS pipelines.
 
+This is a simple java application with a unit test.
+
 Prérequis:
 - AWS account
   - IAM: Role, policy
