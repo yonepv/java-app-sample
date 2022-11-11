@@ -11,8 +11,8 @@ Prérequis:
   - CodePipeline: pipeline
 - Sources in Dépôt Git
   - build spec file in ./aws/workflows directory
-  - 
 - Connection to third party Snyk for the scan.
+  - Snyk API key in the AWS Secrets Manager
 
 ## AWS CodeBuild User Guide
 
